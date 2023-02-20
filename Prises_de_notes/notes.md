@@ -48,5 +48,11 @@ git add <nom du fichier>
 4.Pour suavegarder s'effectue ensuite avec la commande : 
 ```
 git commit -m "<message de commit>"
+```
 
 Pour pousser les fihcier vers github, il suffit de créer un répertoire et le lignes de commandes son directement données pour chaque répertoires.
+
+Pour cloner un repository il faut utilisier la commande :
+```shell
+git clone LIEN_DU_RIPOSITORY
+```
