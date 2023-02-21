@@ -151,4 +151,4 @@ Le sélecteurs :
 
 ## Flexbox
 
-Flexbox est une méthode de mise en page qui permet d'ajutser les éléments de son site en fonction d'un axe. Grâce à cel on peut les placer en ligne, colone. En fonction de la taille de l'écran ou de la fenêtre les éléments s'adaptent à l'affichage. 
+Flexbox est une méthode de mise en page qui permet d'ajutser les éléments de son site en fonction d'un axe. Grâce à cel on peut les placer en ligne, colone. En fonction de la de la fenêtre les éléments s'adaptent à l'affichage. 
