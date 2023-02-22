@@ -78,6 +78,11 @@ Le balises qui n’ont pas de continu ne sont pas destiné à avoir du contenu :
 	```
 La balise ```<P>``` est destiné à afficher du texte.
 
+Pour créer une ligne de séparation :
+```
+<hr>
+```
+
 Chaque élément HTML peut avoir des attributs :
 	```
 	<p id=« test »> ceci est un un pargraphe </p>
