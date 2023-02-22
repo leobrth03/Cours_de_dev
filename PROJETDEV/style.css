@@ -1,0 +1,41 @@
+.barre-navigation-home {
+    display: flex;
+    flex-shrink: 1;
+    gap: 1rem;
+  }    
+
+.home-icon {
+    object-position: left top;
+    width : 10%;
+    height: auto;
+}
+
+.TOPBARRE {
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+
+.partnerSO {
+    object-position: left;
+    width: 10%;
+    height: auto;
+}
+
+.partnerIS {
+    object-position: left;
+    width: 15%;
+    height: auto;
+}
+
+body {
+    background: linear-gradient(142deg, rgba(255,255,255,1) 50%, rgba(217,84,4,1) 50%);
+    background-attachment: fixed;
+}
+
+.linkedin {
+    object-position: left bottom;
+    width : 4%;
+    height: auto;
+}
