@@ -47,4 +47,6 @@ body {
     width : 4%;
     height: auto;
 }
-a {text-decoration: none}
+a {
+    text-decoration: none
+}
